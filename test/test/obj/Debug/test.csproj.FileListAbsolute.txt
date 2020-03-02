@@ -10,3 +10,15 @@ C:\Users\Noskov.VA\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.cach
 C:\Users\Noskov.VA\Desktop\test\test\obj\Debug\test.exe
 C:\Users\Noskov.VA\Desktop\test\test\obj\Debug\test.pdb
 C:\Users\Noskov.VA\Desktop\test\test\obj\Debug\test.Form2.resources
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\bin\Debug\Database1.mdf
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\bin\Debug\Database1_log.ldf
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\bin\Debug\test.exe.config
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\bin\Debug\test.exe
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\bin\Debug\test.pdb
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.Form2.resources
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.exe
+C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.pdb

@@ -149,6 +149,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(455, 102);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(471, 141);
+            this.MinimumSize = new System.Drawing.Size(471, 141);
             this.Name = "Form1";
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
