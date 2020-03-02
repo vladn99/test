@@ -287,6 +287,9 @@
             this.ClientSize = new System.Drawing.Size(631, 486);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.flowLayoutPanel1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(647, 525);
+            this.MinimumSize = new System.Drawing.Size(647, 525);
             this.Name = "Form2";
             this.Text = "Form2";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);

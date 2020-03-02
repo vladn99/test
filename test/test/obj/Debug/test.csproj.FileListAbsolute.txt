@@ -22,3 +22,15 @@ C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.Properties.Res
 C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
 C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.exe
 C:\Users\Noskov.VA\Documents\GitHub\test\test\test\obj\Debug\test.pdb
+D:\git\test\test\test\bin\Debug\Database1.mdf
+D:\git\test\test\test\bin\Debug\Database1_log.ldf
+D:\git\test\test\test\bin\Debug\test.exe.config
+D:\git\test\test\test\bin\Debug\test.exe
+D:\git\test\test\test\bin\Debug\test.pdb
+D:\git\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\git\test\test\test\obj\Debug\test.Form1.resources
+D:\git\test\test\test\obj\Debug\test.Form2.resources
+D:\git\test\test\test\obj\Debug\test.Properties.Resources.resources
+D:\git\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\git\test\test\test\obj\Debug\test.exe
+D:\git\test\test\test\obj\Debug\test.pdb
